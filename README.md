@@ -32,11 +32,11 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 1 | Introduction: Media and communication in the digital age|  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | slides |
 | Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure); command line interface | slides code examples |
 | Week 3 | Python in action: in an interactive notebook | Python (functions, control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | slides code examples |
-| Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data sources, data-driven investigation | slides|
+| Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data-driven investigation | slides|
 | Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | slides |
-| Week 6 | Web scraping ep. 2 | Open data, Web data formats (JSON, XML), Regex, Requests, BeautifulSoup, Pandas | slides |
+| Week 6 | Web scraping ep. 2 | Data sources, web scraping pipelines, Requests, BeautifulSoup, Pandas | slides |
 | Workshop | Developing web crawlers | Scrapy, Selenium | demonstration |
-| Week 8 | Mining the social web | API | slides |
+| Week 8 | Mining the social web | Web data formats (JSON, XML), Regex, API | slides |
 | Workshop | Case study: An integrated workflow | API, Cloud (Amazon), Pandas | demonstration |
 | Week 9 | Data processing ep. 1: numeric data | Pandas | slides |
 | Week 10 | Data processing ep. 2: text analysis fundamental  | Pandas, Matplotlib | slides |
