@@ -37,12 +37,12 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 6 | Web scraping ep. 2 | Open data, Web data formats (JSON, XML), Regex, Requests, BeautifulSoup, Pandas | slides |
 | Workshop | Developing web crawlers | Scrapy, Selenium | demonstration |
 | Week 8 | Mining the social web | API | slides |
-| Workshop | Case study: An integrated workflow | API, Amazon Cloud, Pandas | demonstration |
+| Workshop | Case study: An integrated workflow | API, Cloud (Amazon), Pandas | demonstration |
 | Week 9 | Data processing ep. 1: numeric data | Pandas | slides |
 | Week 10 | Data processing ep. 2: text analysis fundamental  | Pandas, Matplotlib | slides |
 | Week 11 | Data exploration | Matplotlib | slides |
 | Week 12 | Project implementation (2) | Integrated data-driven storytelling | slides |
 | Week 13 | Group project presentation | /// | Representative student works |
 
-### About the course instructor
+### About the Instructor
 - Xinzhi Zhang (MA., Ph.D., City University of Hong Kong) is a Research Assistant Professor at the Department of Journalism of Hong Kong Baptist University. His research interests include comparative political communication, new media and social change, and emerging media and the sociology of news. He is also an observer of computational social science and digital humanities. His research work has appeared in peer-reviewed journals such as *International Political Science Review*, *Computers in Human Behavior*, *International Journal of Communication*, and *Digital Journalism*. He currently serves as the Programme Director of Data and Media Communication concentration, an interdisciplinary undergraduate concentration on data science and data-driven investigation and storytelling at HKBU.
