@@ -30,18 +30,18 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week | Content | Tools, packages, & tech details | Documents |
 | :-: | :-: | :-: | :-: |
 | Week 1 | Introduction: Media and communication in the digital age|  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | slides |
-| Week 2 | Python in action: A command-liner's perspective | Python; command line interface | slides code examples |
-| Week 3 | Python in action: in an interactive notebook | Jupyter Notebook, Numpy, Pandas | slides code examples |
-| Week 4 | Data science's pipeline & project implementation (1) | Jupyter Notebook | slides|
-| Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | slides
+| Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure); command line interface | slides code examples |
+| Week 3 | Python in action: in an interactive notebook | Python (functions, control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | slides code examples |
+| Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data sources, data-driven investigation | slides|
+| Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | slides |
 | Week 6 | Web scraping ep. 2 | Open data, Web data formats (JSON, XML), Regex, Requests, BeautifulSoup, Pandas | slides |
-| Week 7 | Developing web crawlers [workshop] | Scrapy framework, Selenium | slides |
+| Workshop | Developing web crawlers | Scrapy, Selenium | demonstration |
 | Week 8 | Mining the social web | API | slides |
-| week 8 | Tutorial: an integrated workflow | API, Amazon Cloud | demonstration |
+| Workshop | Case study: An integrated workflow | API, Amazon Cloud, Pandas | demonstration |
 | Week 9 | Data processing ep. 1: numeric data | Pandas | slides |
 | Week 10 | Data processing ep. 2: text analysis fundamental  | Pandas, Matplotlib | slides |
 | Week 11 | Data exploration | Matplotlib | slides |
-| Week 12 | Project implementation (2) | All the above | slides |
+| Week 12 | Project implementation (2) | Integrated data-driven storytelling | slides |
 | Week 13 | Group project presentation | /// | Representative student works |
 
 ### About the course instructor
