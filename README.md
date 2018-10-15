@@ -7,7 +7,7 @@
 
 - #Data_science_101 | #Python | #automated | #web_data_collection | #opendata | #web_scraping | #API | #pandas | #numpy | #tm | #sna | #dataviz | #macnm | #cityucom_10thanniversary
 
-## Course Instructor
+## Course Instructor (Guest)
 - [Dr. Xinzhi Zhang](http://www.drxinzhizhang.com), Research Assistant Professor, the [Department of Journalism](http://www.jour.hkbu.edu.hk/eng/), [Hong Kong Baptist University](http://www.hkbu.edu.hk).  
 - Office hour: by appointment
 
@@ -30,9 +30,9 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week | Content | Tools, packages, & tech details | Documents |
 | :-: | :-: | :-: | :-: |
 | Week 1 | Introduction: Media and communication in the digital age|  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | <li>[Slides 1. Intro](slides/CityUCOM5507_201819A_Week1a_Intro_GitHub.pdf) <li>[Slides 2. Data science in Action](slides/CityUCOM5507_201819A_Week1b_Action_GitHub.pdf) <li>[Slides 3. Tools installation](slides/CityUCOM5507_201819A_Week1c_Installation_GitHub.pdf) |
-| Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure); command line interface | slides code examples |
-| Week 3 | Python in action: in an interactive notebook | Python (functions, control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | slides code examples |
-| Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data-driven investigation | slides|
+| Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure); command line interface | <li>[Slides](slides/CityUCOM5507_201819A_Week2_PythonCLI_GitHub.pdf) <li>[Code examples](py_codes) |
+| Week 3 | Python in action: in an interactive notebook | Python (functions, control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | <li>[Slides](slides/CityUCOM5507_201819A_Week3_PythonNB_GitHub.pdf) <li>[Code examples]() |
+| Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data-driven investigation | Slides |
 | Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | slides |
 | Week 6 | Web scraping ep. 2 | Data sources, web scraping pipelines, Requests, BeautifulSoup, Pandas | slides |
 | Workshop | Developing web crawlers | Scrapy, Selenium | demonstration |
