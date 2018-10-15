@@ -29,7 +29,7 @@ The lectures are divided into four units, and several additional workshops, plus
 
 | Week | Content | Tools, packages, & tech details | Documents |
 | :-: | :-: | :-: | :-: |
-| Week 1 | Introduction: Media and communication in the digital age|  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | slides |
+| Week 1 | Introduction: Media and communication in the digital age|  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | <li>[Slides 1: Intro](slides/CityUCOM5507_201819A_Week1a_Intro_GitHub.pdf) <li>[Slide 2: Data science in Action](slides/CityUCOM5507_201819A_Week1b_Action_GitHub.pdf) <li>[Slide 3: Tools installation](slides/CityUCOM5507_201819A_Week1c_Installation_GitHub.pdf) |
 | Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure); command line interface | slides code examples |
 | Week 3 | Python in action: in an interactive notebook | Python (functions, control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | slides code examples |
 | Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data-driven investigation | slides|
