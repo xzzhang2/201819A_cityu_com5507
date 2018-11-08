@@ -26,7 +26,7 @@ The lectures are divided into four units, and several additional workshops, plus
 ### Course Syllabus (weekly teaching plan)
 
 | Week | Content | Tools, packages, & tech details | Documents |
-| :-: | :-: | :-: | :-: |
+| :-: | :--------: | :-: | :-: |
 | Week 1 | Introduction: Media and communication in the digital age|  Tools installation (Python; Anaconda, Jupyter Notebook; Git and GitHub; Markdown language) | <li>[Slides 1. Intro](slides/CityUCOM5507_201819A_Week1a_Intro_GitHub.pdf) <li>[Slides 2. Data science in Action](slides/CityUCOM5507_201819A_Week1b_Action_GitHub.pdf) <li>[Slides 3. Tools installation](slides/CityUCOM5507_201819A_Week1c_Installation_GitHub.pdf) |
 | Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure, function); command line interface | <li>[Slides](slides/CityUCOM5507_201819A_Week2_PythonCLI_GitHub.pdf) <li>[Code examples](py_codes) |
 | Week 3 | Python in action: in an interactive notebook | Python (control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | <li>[Slides](slides/CityUCOM5507_201819A_Week3_PythonNB_GitHub.pdf) <li>[Code examples](py_notebooks) |
@@ -41,6 +41,7 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 12 | Data exploration ep. 3: Networks, maps, and project finalizing | Integrated data-driven storytelling | Slides |
 | Week 13 | Group project presentation | /// | /// |
 
+
 ### Representative Students' Works
 | Type | The task  | Documentation |
 | :-: | :-: | :-: |
@@ -48,7 +49,6 @@ The lectures are divided into four units, and several additional workshops, plus
 | Group exercise 01 | "*A thought experiment*": converting a text-based story into a data-driven news reports (**datafication**) | Link |
 | Group exercise 02 | Another "*thought experiment*": converting a data-driven news report into a text one ("**de**-datafication") | Link |
 | Group project | Integrated data-driven storytelling project | Link|
-
 
 
 ### About the Instructor
