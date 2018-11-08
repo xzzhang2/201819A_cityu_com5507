@@ -31,16 +31,25 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure, function); command line interface | <li>[Slides](slides/CityUCOM5507_201819A_Week2_PythonCLI_GitHub.pdf) <li>[Code examples](py_codes) |
 | Week 3 | Python in action: in an interactive notebook | Python (control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | <li>[Slides](slides/CityUCOM5507_201819A_Week3_PythonNB_GitHub.pdf) <li>[Code examples](py_notebooks) |
 | Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data-driven investigation | <li>[Slides](slides/CityUCOM5507_201819A_Week4_Pipeline&Project_GitHub.pdf) |
-| Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | slides |
-| Week 6 | Web scraping ep. 2 | Data sources, web scraping pipelines, Requests, BeautifulSoup, Pandas | slides |
-| Workshop | Developing web crawlers | Scrapy, Selenium | demonstration |
-| Week 8 | Mining the social web | Web data formats (JSON, XML), Regex, API | slides |
-| Workshop | Case study: An integrated workflow | API, Cloud (Amazon), Pandas | demonstration |
-| Week 9 | Data processing ep. 1: numeric data | Pandas | slides |
-| Week 10 | Data processing ep. 2: text analysis fundamental  | Pandas, Matplotlib | slides |
-| Week 11 | Data exploration | Matplotlib | slides |
-| Week 12 | Project implementation (2) | Integrated data-driven storytelling | slides |
-| Week 13 | Group project presentation | /// | Representative student works |
+| Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | <li>[Slides](/slides/CityUCOM5507_201819A_Week5_Web_scraping_ep1_GitHub.pdf) |
+| Week 6 | Web scraping ep. 2 | Data sources, web scraping pipelines, Requests, BeautifulSoup, Pandas | <li>[Slides](slides/CityUCOM5507_201819A_Week6_Web_scraping_ep2_GitHub.pdf) |
+| Week 7 | Mining the social web | Web data formats (JSON, XML), API, Cloud computing  | <li>[Slides](slides/CityUCOM5507_201819A_Week7_Social_web_GitHub.pdf) |
+| Week 8 | More topics in web data collection: structures and automation | Selenium | <li>[Slides](slides/CityUCOM5507_201819A_Week8_More_topics_GitHub.pdf) |
+| Week 9 | Data processing  | Pandas | <li>[Slides](CityUCOM5507_201819A_Week9_Data_Processing_GitHub.pdf) |
+| Week 10 | Data exploration ep. 1: Numerical data processing  | Pandas | <li>[Slides](CityUCOM5507_201819A_Week10_DataEXP_ep1_GitHub.pdf) |
+| Week 11 | Data exploration ep. 2: Text data processing | Matplotlib | Slides |
+| Week 12 | Data exploration ep. 3: Networks, maps, and project finalizing | Integrated data-driven storytelling | Slides |
+| Week 13 | Group project presentation | /// | /// |
+
+### Representative Students' Works
+| Type | The task  | Documentation |
+| :-: | :-: | :-: |
+| Individual assignment 01 | Screen scraping a single webpage, and multiple webpages (bonus) | Link |
+| Group exercise 01 | "*A thought experiment*": converting a text-based story into a data-driven news reports (**datafication**) | Link |
+| Group exercise 02 | Another "*thought experiment*": converting a data-driven news report into a text one ("**de**-datafication") | Link |
+| Group project | Integrated data-driven storytelling project | Link|
+
+
 
 ### About the Instructor
-- Xinzhi Zhang (MA., Ph.D., City University of Hong Kong, 2013) is a Research Assistant Professor at the Department of Journalism at the Hong Kong Baptist University. His research interests include comparative political communication, new media and social change, and emerging media and the sociology of news. He is also an observer of computational social science and digital humanities. His research work has appeared in peer-reviewed journals such as *International Political Science Review*, *Computers in Human Behavior*, *International Journal of Communication*, and *Digital Journalism*. He currently serves as the Programme Director of Data and Media Communication concentration, an interdisciplinary undergraduate concentration on data science and data-driven investigative reporting and storytelling at HKBU.
+- Xinzhi Zhang (MA. & Ph.D., City University of Hong Kong, 2013) is a Research Assistant Professor at the Department of Journalism at the Hong Kong Baptist University. His research interests include comparative political communication, new media and social change, and emerging media and the sociology of news. He is also an observer of computational social science and digital humanities. His research work has appeared in peer-reviewed journals such as *International Political Science Review*, *Computers in Human Behavior*, *International Journal of Communication*, and *Digital Journalism*. He currently serves as the Programme Director of Data and Media Communication concentration, an interdisciplinary undergraduate concentration on data science and data-driven investigative reporting and storytelling at HKBU.
