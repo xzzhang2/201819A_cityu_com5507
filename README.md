@@ -40,6 +40,8 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 11 | Data exploration ep. 2: Text data processing | Matplotlib | Slides |
 | Week 12 | Data exploration ep. 3: Networks, maps, and project finalizing | Integrated data-driven storytelling | Slides |
 | Week 13 | Group project presentation | /// | /// |
+
+
 *Notes: the code examples are for educational purposes and in-class demonstrations only. Since the webpages for harvesting are subject to change, the codes presented in this course may not work as always.*
 
 ### Representative Students' Works
