@@ -2,9 +2,8 @@
 
 ### This page is under construction. Thank you for the patience.
 
-#### Representative Students' Works: two thought experiments
+#### Integrated data-driven storytelling projects
 
-1. a thought experiment 01
+1. topic 00x
 
-
-2. another thought experiment 02
+2. topic 00x

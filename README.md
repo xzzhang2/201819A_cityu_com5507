@@ -31,7 +31,7 @@ The lectures are divided into four units, and several additional workshops, plus
 | Week 2 | Python in action: A command-liner's perspective | Python (program execution, variables, expressions, data structure, function); command line interface | <li>[Slides](slides/CityUCOM5507_201819A_Week2_PythonCLI_GitHub.pdf) <li>[Code examples](py_codes) |
 | Week 3 | Python in action: in an interactive notebook | Python (control flow statements, errors and debugging); Jupyter Notebook, Numpy, Pandas | <li>[Slides](slides/CityUCOM5507_201819A_Week3_PythonNB_GitHub.pdf) <li>[Code examples](py_notebooks) |
 | Week 4 | Data science pipeline & project implementation (1) | Data scientists' workflow, data-driven investigation | <li>[Slides](slides/CityUCOM5507_201819A_Week4_Pipeline&Project_GitHub.pdf) |
-| Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | <li>[Slides](/slides/CityUCOM5507_201819A_Week5_Web_scraping_ep1_GitHub.pdf) <li>[*once upon a time at CityU*](py_notebooks/webscraping_CityUnews_10years_1.ipynb) <li>[*Once upon a **decade** at CityU*](webscraping_CityUnews_10years_2.ipynb)|
+| Week 5 | Web scraping ep. 1 | Web technologies (HTTP, HTML, CSS), Requests, BeautifulSoup | <li>[Slides](/slides/CityUCOM5507_201819A_Week5_Web_scraping_ep1_GitHub.pdf) <li>[*Once upon a time at CityU*](py_notebooks/webscraping_CityUnews_10years_1.ipynb) <li>[*Once upon a **decade** at CityU*](webscraping_CityUnews_10years_2.ipynb)|
 | Week 6 | Web scraping ep. 2 | Data sources, web scraping pipelines, Requests, BeautifulSoup, Pandas | <li>[Slides](slides/CityUCOM5507_201819A_Week6_Web_scraping_ep2_GitHub.pdf) |
 | Week 7 | Mining the social web | Web data formats (JSON, XML), API, Cloud computing  | <li>[Slides](slides/CityUCOM5507_201819A_Week7_Social_web_GitHub.pdf) <li>[Codes for XML](py_notebooks/socialweb_01_XML) <li>[Codes for JSON](py_notebooks/socialweb_02_JSON.ipynb) |
 | Week 8 | More topics in web data collection: structures and automation | Selenium | <li>[Slides](slides/CityUCOM5507_201819A_Week8_More_topics_GitHub.pdf) <li>["*Bags are cure-all*"](py_notebooks/selenium04_Selfridges_GitHub) |
@@ -50,7 +50,7 @@ The lectures are divided into four units, and several additional workshops, plus
 | Individual assignment 01 | Screen scraping: a single webpage or multiple webpages (bonus) | [Link](std1_indi01.md) |
 | Group exercise 01 | "*A thought experiment*": converting a text-based story into a data-driven news reports ("**datafication**") | [Link](std2_group_ex1n2.md) |
 | Group exercise 02 | Another "*thought experiment*": converting a data-driven news report into a text one ("**de**-datafication") | [Link](std2_group_ex1n2.md) |
-| Group project | Integrated data-driven storytelling project | Link|
+| Final project | Integrated data-driven storytelling projects | [Link](std3_group_final.md) |
 
 
 ### About the Instructor
