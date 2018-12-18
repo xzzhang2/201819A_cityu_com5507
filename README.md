@@ -47,8 +47,8 @@ The lectures are divided into four units, and several additional workshops, plus
 ### Representative Students' Works
 | Type | The task  | Documentation |
 | :-: | :-: | :-: |
-| Individual assignment 01 | Screen scraping: a single webpage or multiple webpages | [Link](std_proj/std1_indi01.md) |
-| Individual assignment 02 | Data processing and exploration: text and numerical data | [Link](std_proj/std1_indi02.md) |
+| Individual assignment 01 | Screen scraping: scraping information from a single webpage or multiple webpages, and storing the information into a machine-readable "spreadsheet" format | [Link](std_proj/std1_indi01.md) |
+| Individual assignment 02 | Data processing and data exploration for text and numerical data | [Link](std_proj/std1_indi02.md) |
 | Group exercise 01 | "*A thought experiment*": converting a text-based story into a data-driven news reports ("**datafication**") | [Link](std_proj/std2_group_ex1n2.md) |
 | Group exercise 02 | Another "*thought experiment*": converting a data-driven news report into a text one ("**de**-datafication") | [Link](std_proj/std2_group_ex1n2.md) |
 | Final project | Integrated data-driven storytelling projects | [Link](std_proj/std3_group_final.md) |
