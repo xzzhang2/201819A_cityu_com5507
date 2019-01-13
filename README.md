@@ -1,7 +1,7 @@
 
 ## 201819A COM5507 *Social Media Data Acquisition and Processing*
 
-- This repository was created in 2018 Fall. It stores the course documents of a postgraduate-level course, *COM5507 Social Media Data Acquisition and Processing*, for the Master of Arts in Communication and New Media program (**MACNM**) @ City University of Hong Kong (**CityU**), lectured by Dr. Xinzhi Zhang from Hong Kong Baptist University.
+- This repository was created in 2018 Fall. It stores the course documents of a postgraduate-level course, *COM5507 Social Media Data Acquisition and Processing*, for the Master of Arts in Communication and New Media program (**MACNM**) @ City University of Hong Kong (**CityU**), guest lectured by Dr. Xinzhi Zhang from Hong Kong Baptist University.
 
 - #Data_science_101 #Python #automated #web_data_collection #opendata #web_scraping #API #pandas #numpy #tm #sna #dataviz #macnm #cityucom_10thanniversary
 
@@ -48,11 +48,11 @@ The lectures are divided into four units, and several additional workshops, plus
 | Type | The task  | Documentation |
 | :-: | :-: | :-: |
 | Individual assignment 01 | Screen scraping: scraping information from a single webpage or multiple webpages, and storing the information into a machine-readable "spreadsheet" format | [Link](std_proj/std1_indi01.md) |
-| Individual assignment 02 | Data processing and data exploration for text and numerical data | [Link](std_proj/std1_indi02.md) |
+| Individual assignment 02 | Data processing and data exploration for text and numerical data | [Link](std_proj/std2_indi02.md) |
 | Group exercise 01 | "*A thought experiment*": converting a text-based story into a data-driven news reports ("**datafication**") | [Link](std_proj/std2_group_ex1n2.md) |
 | Group exercise 02 | Another "*thought experiment*": converting a data-driven news report into a text one ("**de**-datafication") | [Link](std_proj/std2_group_ex1n2.md) |
 | Final project | Integrated data-driven storytelling projects | [Link](std_proj/std3_group_final.md) |
 
 
 ### About the Instructor
-- Xinzhi Zhang (MA. & Ph.D., City University of Hong Kong, 2013) is a Research Assistant Professor at the Department of Journalism at the Hong Kong Baptist University. His research interests include comparative political communication, new media and social change, new media and public health, and digital journalism. He is also an observer of computational social science and digital humanities. His research work has appeared in peer-reviewed journals such as *International Political Science Review*, *Computers in Human Behavior*, *International Journal of Communication*, and *Digital Journalism*. He currently serves as the Programme Director of [Data and Media Communication concentration](http://bu-dmc.hkbu.edu.hk/), an interdisciplinary concentration on data science and data-driven investigative reporting and storytelling, jointly offered by the Department of Computer Science and the Department of Journalism at HKBU.
+- Xinzhi Zhang (MA. & Ph.D., City University of Hong Kong, 2013) is a Research Assistant Professor at the Department of Journalism at the Hong Kong Baptist University. His research interests include digital media and social change, comparative political communication, digital media and public health, and the social implications of big data technologies and AI algorithms. He is also an observer of computational social science and digital humanities. His research work has appeared in peer-reviewed journals such as *International Political Science Review*, *Computers in Human Behavior*, *International Journal of Communication*, and *Digital Journalism*. He currently serves as the Programme Director of [Data and Media Communication concentration](http://bu-dmc.hkbu.edu.hk/), an interdisciplinary concentration on data science and data-driven investigative reporting and storytelling, jointly offered by the Department of Computer Science and the Department of Journalism at HKBU.
